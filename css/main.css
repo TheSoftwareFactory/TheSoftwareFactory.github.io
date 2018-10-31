@@ -114,7 +114,7 @@ h1#topbar {
 }
 
 div#main-column {
-    width: 800px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
